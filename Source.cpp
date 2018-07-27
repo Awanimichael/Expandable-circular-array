@@ -1,9 +1,3 @@
-// Team Project
-// Implementation of queue ADT using extendable array
-// Awani Rotimi
-// Coker
-// Paul
-// Charles
 // 04/25/2017
 
 #include <iostream>

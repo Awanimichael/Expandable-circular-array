@@ -1,9 +1,3 @@
-// Team Project
-// Implementation of queue ADT using extendable array
-// Awani Rotimi
-// Coker Oluwaseun
-// Paul Eze
-// Charles Odunukwe
 // 04/25/2017
 
 #ifndef QUEUE_H
